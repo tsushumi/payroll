@@ -1,0 +1,12 @@
+C:\Users\Emmanuel Sane\source\repos\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Emmanuel Sane\source\repos\Payroll\bin\Debug\Payroll.exe
+C:\Users\Emmanuel Sane\source\repos\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Emmanuel Sane\source\repos\Payroll\bin\Debug\Payroll.xml
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.vbproj.AssemblyReference.cache
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.PayrollForm.resources
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.Resources.resources
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.vbproj.GenerateResource.cache
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.vbproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.exe
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.xml
+C:\Users\Emmanuel Sane\source\repos\Payroll\obj\Debug\Payroll.pdb
